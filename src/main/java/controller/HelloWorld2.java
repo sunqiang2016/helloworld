@@ -8,6 +8,8 @@ public class HelloWorld2 {
         System.err.println("0406...");
         System.err.println("0406...111222");
 
+        System.err.println("...");
+
     }
 }
 
